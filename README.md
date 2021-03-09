@@ -7,3 +7,5 @@
 
 
 ![Video](https://user-images.githubusercontent.com/70856845/110521016-1473a280-80c4-11eb-99b3-7549f6169ba0.mp4)
+
+For some reason, the video is displaying in slow motion, so press it to see the raw video.
